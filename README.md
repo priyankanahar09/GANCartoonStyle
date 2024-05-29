@@ -181,4 +181,6 @@ else:
 
 files.download(output_image_path)
 ```
+Result: 
+![download](https://github.com/priyankanahar09/GANCartoonStyle/assets/132066091/f6954cdf-708d-4975-8784-ebc27c5a3545)
 
