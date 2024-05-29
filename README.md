@@ -7,13 +7,10 @@ Here's a `README.md` file for your repository with the necessary steps to run yo
 
 This repository contains code for training and using a CartoonGAN model to transform images into cartoon-style images. The following instructions will guide you through setting up and running the model in Google Colab.
 
-## Getting Started
 
 To get started, open this notebook in Google Colab by clicking the link below:
 
 [Open in Google Colab](https://colab.research.google.com/drive/1BhJpQMGSWOs3OQdjS5CcX5Yp77rEHz1M#scrollTo=KVK0kiqcUEh8)
-
-### Clone the Repository
 
 First, clone the repository and navigate to the project directory:
 
