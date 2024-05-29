@@ -2,8 +2,7 @@
 
 Here's a `README.md` file for your repository with the necessary steps to run your code in Google Colab:
 
-```markdown
-# CartoonGan-Tensorflow
+
 
 This repository contains code for training and using a CartoonGAN model to transform images into cartoon-style images. The following instructions will guide you through setting up and running the model in Google Colab.
 
